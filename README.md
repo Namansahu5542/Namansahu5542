@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naman Sahu</h1>
 <h3 align="center">Computer Science student who loves turning ideas into working software. I enjoy full-stack development and am always exploring new tools and technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=namansahu5542&label=Profile%20views&color=0e75b6&style=flat" alt="namansahu5542" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namansahu5542" alt="namansahu5542" /></a> </p>
 
