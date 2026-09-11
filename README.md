@@ -3,7 +3,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namansahu5542" alt="namansahu5542" /></a> </p>
 
 - 🔭 I'm currently working on [Ekagra](https://github.com/Namansahu5542/Ekagra)
 
